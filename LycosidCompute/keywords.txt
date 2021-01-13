@@ -1,0 +1,12 @@
+# Syntax Coloring Map for Dynamixel Library Smart Actuators
+
+# Datatypes (KEYWORD1)
+
+LycosidCompute	KEYWORD1
+Compute	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+readPing	KEYWORD2
+begin	KEYWORD2
+tryPost	KEYWORD2
+keyPost	KEYWORD2
